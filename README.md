@@ -1,0 +1,2 @@
+# Tailwind Admin
+Admin Template
